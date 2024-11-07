@@ -10,16 +10,20 @@ DevOps Transformation gate for enterprise and open-source community.
 
 ## We love Open Source, we love community!
 
-Supporting open source and community is one of our goals. For a better DevOps ecosystem, we have open-source projects and provide mentorship to the community members.
+One of our goals is to support open source and the community. To improve the DevOps ecosystem, we have open-source projects and provide mentorship to community members.
 
 ## Community Project: Dynamic DevOps Roadmap
 
 <p align="center">
-  <a href="https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap/blob/main/img/dynamic-devops-roadmap.png" style="display: block; padding: 1em 0;">
-    <img alt="Dynamic DevOps Roadmap" border="0" width="80%" src="https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap/blob/main/img/dynamic-devops-roadmap.png"/>
+  <a href="https://devopsroadmap.io/" style="display: block; padding: 1em 0;">
+    <img alt="Dynamic DevOps Roadmap" border="0" width="80%" src="https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap/blob/main/static/img/dynamic-devops-roadmap-flow-regular-bg.png"/>
+  </a>
+  <br/>
+  <br/>
+  A FREE master plan to kickstart your DevOps Engineer career in the Cloud Native era following the Agile MVP style! ⭐
+  <br/>
+  <br/>
+  <a href="https://devopsroadmap.io" imageanchor="1">
+    <img src="https://img.shields.io/badge/Get_Started_Now-559e11?style=for-the-badge&logo=Vercel&logoColor=white" />
   </a>
 </p>
-
-A master plan for roadmap, mentorship, and bootcamp to start a DevOps Engineer career in the Agile way!
-
-**Join now!** [![Dynamic DevOps Roadmap](https://img.shields.io/badge/Dynamic_DevOps_Roadmap-gray?style=flat-square&logo=artifact-hub&logoColor=white&labelColor=f39200)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
