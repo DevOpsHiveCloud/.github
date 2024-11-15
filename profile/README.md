@@ -16,7 +16,7 @@ One of our goals is to support open source and the community. To improve the Dev
 
 <p align="center">
   <a href="https://devopsroadmap.io/" style="display: block; padding: 1em 0;">
-    <img alt="Dynamic DevOps Roadmap" border="0" width="80%" src="https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap/blob/main/static/img/dynamic-devops-roadmap-flow-regular-bg.png"/>
+    <img alt="Dynamic DevOps Roadmap" border="0" width="80%" src="https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap/blob/main/static/img/dynamic-devops-roadmap-flow.png"/>
   </a>
   <br/>
   <br/>
